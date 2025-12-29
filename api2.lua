@@ -1,5 +1,5 @@
 _G.HAZE_VERSION = "mjoi70sb"
-
+print("HAZE HUB CRACKED LOADING......😈")
 if not game:IsLoaded() then
     game.Loaded:Wait()
 end
